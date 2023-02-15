@@ -5,6 +5,9 @@ Professionals, freelancers, and developers should consider an online portfolio t
 ## 🛠 Skills
 Javascript, HTML, CSS, Figma...
 
+## Features
+
+- Light/dark mode toggle
 
 ## Lessons Learned
 
